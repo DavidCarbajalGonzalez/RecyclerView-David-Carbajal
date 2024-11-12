@@ -40,5 +40,4 @@
             android:text="1234567890"
             android:textSize="14sp" />
     </LinearLayout>
-
 </LinearLayout>
